@@ -224,7 +224,10 @@ namespace Exchange {
         //Butler
         ID_BUTLER_GROUP,
         ID_BUTLER,
-        ID_BUTLER_NOTIFICATION
+        ID_BUTLER_NOTIFICATION,
+
+        ID_BLUETOOTHAUDIOSINK,
+        ID_BLUETOOTHAUDIOSINK_CALLBACK
     };
 }
 }
